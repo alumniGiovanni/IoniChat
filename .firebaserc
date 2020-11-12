@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "simplechat-6d2c3": {
+      "hosting": {
+        "app": [
+          "simplechat-6d2c3"
+        ]
+      }
+    }
+  }
+}
